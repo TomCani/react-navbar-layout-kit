@@ -19,26 +19,15 @@ cd react-navbar-layout-kit
 npm install
 Run the development server:
 
-bash
-Copy
-Edit
 npm run dev
 Build for production:
 
-bash
-Copy
-Edit
 npm run build
 Preview the production build locally:
 
-bash
-Copy
-Edit
 npm run preview
 📂 Project Structure
-graphql
-Copy
-Edit
+
 react-navbar-layout-kit/
 ├── index.html              # Root HTML file (mount point for React)
 ├── src/

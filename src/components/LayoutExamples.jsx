@@ -62,11 +62,11 @@ export default function LayoutExamples() {
           <Form className="row g-3">
             <Col md={6}>
               <Form.Label htmlFor="name">Name</Form.Label>
-              <Form.Control id="name" placeholder="Ada Lovelace" />
+              <Form.Control id="name" placeholder="Thomas Cani" />
             </Col>
             <Col md={6}>
               <Form.Label htmlFor="email">Email</Form.Label>
-              <Form.Control type="email" id="email" placeholder="ada@example.com" />
+              <Form.Control type="email" id="email" placeholder="thomascx5@gmail.com" />
             </Col>
             <Col xs={12}>
               <Form.Label htmlFor="msg">Message</Form.Label>
